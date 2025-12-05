@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 扫雷专业版",
+  "description": "基于 React 和 Tailwind CSS 的经典扫雷游戏，集成 Google Gemini AI 智能提示。",
+  "requestFramePermissions": []
+}
